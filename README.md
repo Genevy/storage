@@ -1,1 +1,1 @@
-The Files Storage
+The File Storage for GitHub Projects
