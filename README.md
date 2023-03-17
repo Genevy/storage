@@ -1,1 +1,1 @@
-The File Storage for GitHub Projects
+The Images Storage for GitHub Projects
