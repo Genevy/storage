@@ -1,1 +1,1 @@
-📁 The Images Storage for GitHub profile
+📁 The Images Storage for GitHub Projects
